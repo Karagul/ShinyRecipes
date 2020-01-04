@@ -1,2 +1,2 @@
 # ShinyRecipes
-Recipes for Shiny/Plotly
+Interactive Data Apps using Shiny, shinydashboards, flexdashboards 
